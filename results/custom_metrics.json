@@ -1,0 +1,7 @@
+{
+  "mean_monthly_charges_delta": 33.71364321885905,
+  "reference_churn_rate": 0.2663286004056795,
+  "current_churn_rate": 0.3241836251774728,
+  "reference_month_to_month_churn_rate": 0.43212166172106825,
+  "current_month_to_month_churn_rate": 0.3252885624344176
+}
