@@ -1,5 +1,6 @@
 # Telco Churn Prediction · MLOps Track A
 
+
 An end-to-end churn prediction project using the IBM Telco Customer Churn dataset. It compares models with MLflow, registers the selected model, serves predictions through FastAPI, and produces an Evidently drift report.
 
 ## What is included
@@ -68,3 +69,7 @@ Although the measured churn rate increased, Evidently did not flag `Churn` as dr
 ## Notes
 
 The same 25% holdout is used for model selection and reported performance. It is therefore a validation set, not an untouched final test set. The local MLflow database and the dataset are excluded from Git; exported comparisons, registry details, figures, and the HTML report are included so results can be reviewed without running the project.
+
+---
+
+**Submitted by:** Ushakiran Kandel
